@@ -1,3 +1,4 @@
 name: web programming
 markdown: kramdown
-permalink: /blog/:2021/:09/:01/:site-launched
+permalink: /blog/:year/:month/:day/:title
+
